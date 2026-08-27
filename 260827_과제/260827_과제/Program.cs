@@ -9,7 +9,9 @@ public class Program
         // 팀원 소개 호출 추가
 
         IntroJoosjae01();
-        
+        IntroxhwasuxdevGit();
+
+
         Console.WriteLine("=== 소개 끝 ===");
     }
     
@@ -18,9 +20,6 @@ public class Program
     {
         Console.WriteLine("주성재 / 열심히 하겠습니다. 앞으로 잘 부탁드립니다.");
 
-        IntroxhwasuxdevGit();
-        
-        Console.WriteLine("=== 소개 끝 ===");
     }
 
     public static void IntroxhwasuxdevGit()
